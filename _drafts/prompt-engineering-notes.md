@@ -54,3 +54,10 @@ Guidelines
 - Be clear and concise
 - Analyze why results do not give the desired output
 - Refine the idea and the prompt
+
+## Summarizing
+
+- Summarize text focusing on specific topics
+- Even with specific instructions, the summary may include information which is not relevant to the topic
+- In this case, try "extract" rather than "summarize"
+- App example: A specialized team needs summaries of many long reviews. Create a dashboard in which the team can see a summary and click to see the full review.
