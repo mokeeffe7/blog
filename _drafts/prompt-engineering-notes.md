@@ -61,3 +61,12 @@ Guidelines
 - Even with specific instructions, the summary may include information which is not relevant to the topic
 - In this case, try "extract" rather than "summarize"
 - App example: A specialized team needs summaries of many long reviews. Create a dashboard in which the team can see a summary and click to see the full review.
+
+## Inferring
+
+Inferring is used for sentiment analysis, topic categorization, keyword identification, and other tasks which require grouping among predefined or inferred classes. To do this, developers may specify the response format, such as
+
+- One word "positive" or "negative", e.g. sentiment analysis
+- List of words, e.g. topic categorization, keyword identification
+- Specify number of outputs, e.g. infer 5 topics
+- Output format into JSON object, e.g. a review with user ID and a sentiment classification using a 0 for negative and 1 for positive.
