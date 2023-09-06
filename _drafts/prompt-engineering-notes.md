@@ -44,3 +44,13 @@ Model limitations:
 
 - Hallucinations - realistic-sounding responses which are not based in fact
 - TODO: review lesson for additional limitations
+
+## Iterative Prompt Development
+
+<img src="../_figs/iterative-prompt-development.png" alt=iteration width=500 align=center>
+
+Guidelines
+
+- Be clear and concise
+- Analyze why results do not give the desired output
+- Refine the idea and the prompt
